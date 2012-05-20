@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+HID Enumeration.opensdf
+HID Enumeration.sdf
+HID Enumeration.suo
